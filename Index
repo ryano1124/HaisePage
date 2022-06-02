@@ -1,0 +1,196 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title>USS Haise</title>
+		<link rel="stylesheet" type="text/css" href="resources/main.css" />
+		<link href="/Resources/favicon.ico" rel="icon" type="image/x-icon" />
+	</head>
+	
+	<body>
+		<div class="title">
+			<div class="table" style="width: 960px;">
+				<div class="row">
+					<div class="cell" style="width: 160px; height: 160px;">
+						<div class="table" style="width: 160px;">
+							<div class="row" style="height: 60px; vertical-align: bottom;">
+								<div class="cell" style="font-family: fedhull; color: white; font-size: 2em;">
+									NCC-74664
+								</div>
+							</div>
+							<div class="row">
+								<div class="gap">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="cell" style="width: 800px; background-color: #111; border-radius: 0 0 0 20px; -moz-border-radius: 0 0 0 20px; color: white;">
+						<div class="table" style="width: 800px;">
+							<div class="cell" style="width: 200px;">
+								<img src="images/Logo_small.png" height="160px" width="160px" alt="Logo" />
+							</div>
+							<div class="cell" id="title">
+								USS hAISE
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row" style="height: 10px;">
+					<div class="cell">
+					</div>
+					<div class="cell">
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="spacer">
+		</div>
+		
+		<div class="container">
+			<div class="table" style="width: 960px;">
+				<div class="table" style="width: 960px;">
+					<div class="row">
+						<div class="cell" style="width: 160px; height: 10px;">
+						</div>
+						<div class="cell" style="width: 800px;">
+						</div>
+					</div>
+					<div class="row">
+						<div class="cell">
+							<div class="table" style="font-family: lcars; font-size: 1.5em;">
+								<div class="row">
+									<div class="gap">
+									</div>
+								</div>
+								<div class="row">
+									<a href="#">
+										<div id="active" class="menuitem">
+											Home
+										</div>
+									</a>
+								</div>
+								<div class="row">
+									<div class="gap">
+									</div>
+								</div>
+								<div class="row">
+									<a href="calendar.html">
+										<div class="menuitem">
+											Calendar of Events
+										</div>
+									</a>
+								</div>
+								<div class="row">
+									<div class="gap">
+									</div>
+								</div>
+								<div class="row">
+									<a href="crew.html">
+										<div class="menuitem">
+											Crew Manifest
+										</div>
+									</a>
+								</div>
+								<div class="row">
+									<div class="gap">
+									</div>
+								</div>
+								
+								<div class="row">
+									<a href="bookclub.html">
+										<div class="menuitem">
+											Ad Astris Per Libris
+										</div>
+									</a>
+								</div>
+								<div class="row">
+									<div class="gap">
+									</div>
+								</div>
+								
+								<div class="row">
+									<a href="scrapbook.html">
+										<div class="menuitem">
+											Scrapbook/Pictures
+										</div>
+									</a>
+								</div>
+								<div class="row">
+									<div class="gap">
+									</div>
+								</div>
+								
+								<div class="row">
+									<a href="awards.html">
+										<div class="menuitem">
+											Awards
+										</div>
+									</a>
+								</div>
+								<div class="row">
+									<div class="gap">
+									</div>
+								</div>
+								<div class="row">
+									<a href="aboutus.html">
+										<div class="menuitem">
+											About  / <i>Commlink</i>
+										</div>
+									</a>
+								</div>
+								<div class="row">
+									<div class="gap">
+									</div>
+								</div>
+								<div class="row">
+									<a href="contactus.html">
+										<div class="menuitem">
+											Contact Us
+										</div>
+									</a>
+								</div>
+								<div class="row">
+									<div class="gap">
+									</div>
+								</div>
+								<div class="row">
+									<div class="cell" style="width: 160px; height: 450px;">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="content" style="width: 800px; height: 650px;">
+							<p style="text-align: center; color: white;">The Jackson, Mississippi Chapter<br />
+							of<br />
+							<img src="images/Starfleet.png" style="width:40%;"><br />
+							The Official International Star Trek Fan Association
+							</p>
+							<p style="text-align: center;"><a href="http://www.sfi.org/" id="link1">Join the Adventure!</a><br /><br />
+							<b>Our Mission:</b><br /></p>
+							<p style="text-align: justify;">	To seek out fellow fans of Star Trek and science fiction who wish to share their love of all things Trek through fellowship and community service activities. To afford a time and a meeting place for people with an interest in Star Trek and a desire to make new and lasting friendships. To encourage growth and to furnish friendship and mutual support for the members. To maintain the highest standards and traditions of Star Trek and Starfleet at all times. To support the communities we live in through community service and social activities. To support space exploration, education, and to help mankind go to the stars.</p>
+							<p style="text-align: center;"><a href="https://www.facebook.com/USSHaise/"><img src="images/findusface.png" style="width:25%;"></a>
+							<br /><br />
+							
+							<p style="text-align: center;"> Poll for June Meeting (June 18, 2022):<br /></p>
+							<center><form method="post" action="https://poll.pollcode.com/47682115"><div style="background-color:#EEEEEE;padding:2px;width:175px;font-family:Arial;font-size:small;color:#000000;">
+							<div style="padding:2px 0px 4px 2px;"><strong>What episode of a Star Trek series do you want to watch next?</strong></div>
+							<input type="radio" name="answer" value="1" id="answer476821151" style="float:left;" /><label for="answer476821151" style="float:left;width:150px;">Original Series - Conscience of the King</label><div style="clear:both;height:2px;"></div>
+							<input type="radio" name="answer" value="2" id="answer476821152" style="float:left;" /><label for="answer476821152" style="float:left;width:150px;">Animated Series - The Magicks of Megas-tu</label><div style="clear:both;height:2px;"></div>
+							<input type="radio" name="answer" value="3" id="answer476821153" style="float:left;" /><label for="answer476821153" style="float:left;width:150px;">Next Generation - Too Short a Season</label><div style="clear:both;height:2px;"></div>
+							<input type="radio" name="answer" value="4" id="answer476821154" style="float:left;" /><label for="answer476821154" style="float:left;width:150px;">DS9 - The Nagus</label><div style="clear:both;height:2px;"></div>
+							<input type="radio" name="answer" value="5" id="answer476821155" style="float:left;" /><label for="answer476821155" style="float:left;width:150px;">Voyager - The 37's</label><div style="clear:both;height:2px;"></div>
+							<input type="radio" name="answer" value="6" id="answer476821156" style="float:left;" /><label for="answer476821156" style="float:left;width:150px;">Enterprise - Cold Front</label><div style="clear:both;height:2px;"></div>
+							<input type="radio" name="answer" value="7" id="answer476821157" style="float:left;" /><label for="answer476821157" style="float:left;width:150px;">Discovery - Despite Yourself</label><div style="clear:both;height:2px;"></div>
+							<input type="radio" name="answer" value="8" id="answer476821158" style="float:left;" /><label for="answer476821158" style="float:left;width:150px;">Picard - Stardust City Rag</label><div style="clear:both;height:2px;"></div>
+							<input type="radio" name="answer" value="9" id="answer476821159" style="float:left;" /><label for="answer476821159" style="float:left;width:150px;">Lower Decks - Temporal Edict</label><div style="clear:both;height:2px;"></div>
+							<input type="radio" name="answer" value="10" id="answer4768211510" style="float:left;" /><label for="answer4768211510" style="float:left;width:150px;">Strange New Worlds - Children of the Comet</label><div style="clear:both;height:2px;"></div>
+							<div align="center" style="padding:3px;"><input type="submit" value=" Vote ">&nbsp;<input type="submit" name="view" value=" View "></div></div></form></center>
+											<br><br><br>			
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
